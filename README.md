@@ -1,7 +1,5 @@
 ### Hi there! Here is what I'm working on! 👋
 
-<!--
-**alfieqashwa/alfieqashwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [My Site Learning In Public](https://www.alfieqashwa.me)
 - 😄 Pronouns: ... He/His
 - ⚡ Fun fact: ... I am half Finished
--->
