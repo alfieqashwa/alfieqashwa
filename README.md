@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... React.Js
 - 🤔 I’m looking for help with ... Prisma Nexus-GraphQL Auth & RBAC
 - 💬 Ask me about ... Radiohead and Nirvana
-- 📫 How to reach me: ... Twitter: @alfieqashwa; Blog: [My Site Learning In Public](https://www.alfieqashwa.me)
+- 📫 How to reach me: ... [Twitter](https://twitter.com/alfieqashwa); Blog: [My Site Learning In Public](https://www.alfieqashwa.me)
