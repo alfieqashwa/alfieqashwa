@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [My twitter](https://twitter.com/alfieqashwa) and Blog: [My Site Learning In Public](https://www.alfieqashwa.me)
 
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/alfieqashwa/alfieqashwa/blob/master/devcard.svg" width="400" alt="Alfie Qashwa's Dev Card"/></a>
+<a href="https:/me-alfieqashwa.vercel.app"><img src="https://github.com/alfieqashwa/alfieqashwa/blob/master/devcard.svg" width="400" alt="Alfie Qashwa's Dev Card"/></a>
