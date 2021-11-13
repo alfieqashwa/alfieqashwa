@@ -10,4 +10,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Radiohead and Nirvana
 - 📫 How to reach me: ... [My twitter](https://twitter.com/alfieqashwa) and Blog: [My Site Learning In Public](https://www.alfieqashwa.me)
 
-<a href="https://app.daily.dev/alfieqashwa"><img src="https://api.daily.dev/devcards/26c1f437032f463b91ab082ae63eb0f8.png?r=wh3" width="400" alt="alfieqashwa's Dev Card"/></a>
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/alfieqashwa/alfieqashwa/blob/master/devcard.svg" width="400" alt="Alfie Qashwa's Dev Card"/></a>
