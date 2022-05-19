@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at great startup company focus in education technology as FE Engineer called [IDN](https://www.infradigital.io/)
+- 🔭 I’m currently working as FE Engineer at great startup company focus in education technology called [IDN](https://www.infradigital.io/)
 - 🌱 I’m currently learning ... Prisma ORM + Remix Framework
 - 👯 I’m looking to collaborate on ... NextJs or Remix using TailwindCss
 - 🦀 I'm struggling in order to learning Rust
