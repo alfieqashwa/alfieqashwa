@@ -3,11 +3,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as a freelancer
-- 🌱 I’m currently learning ... Prisma + Nexus-GraphQL + NextJS (Auth & RBAC)
-- 👯 I’m looking to collaborate on ... React.Js
-- 🤔 I'm on progress to be fullstack developer
-- 💬 Ask me about ... Radiohead and Nirvana
+- 🔭 I’m currently working in education company as FE Engineer
+- 🌱 I’m currently learning ... Prisma ORM + Remix Framework
+- 👯 I’m looking to collaborate on ... NextJs or Remix using TailwindCss
+- 🦀 I'm struggling focus learning Rust
+- 💬 Ask me all about ... Radiohead and Nirvana -- both are two of the best band on the earth
 - 📫 How to reach me: ... [My twitter](https://twitter.com/alfieqashwa) and Blog: [My Site Learning In Public](https://www.alfieqashwa.me)
 
 
