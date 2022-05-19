@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working in education company as FE Engineer
+- 🔭 I’m currently working at an education company as FE Engineer
 - 🌱 I’m currently learning ... Prisma ORM + Remix Framework
 - 👯 I’m looking to collaborate on ... NextJs or Remix using TailwindCss
 - 🦀 I'm struggling focus learning Rust
