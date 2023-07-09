@@ -10,7 +10,7 @@ I started learning ReactJS in mid-2018
 * ✉️  You can contact me at [alfieqashwa@gmail.com](mailto:alfieqashwa@gmail.com)
 * 🧠  I'm currently learning Rust Language
 * 🤝  I'm open to collaborating on NextJs and Remix
-* ⚡  I'd rather be a persistent turtle than a sleeping rabbit.
+* ⚡  I'd rather be a persistent turtle than a sleeping rabbit
 
 ### Skills
 
