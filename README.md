@@ -26,7 +26,7 @@ I started learning ReactJS in mid-2018
 [![Postgres Badge](https://img.shields.io/badge/-Postgresql-2F6792?style=for-the-badge&labelColor=black&logo=postgresql&logoColor)](#) 
 
 
-### Currently Learning
+#### Currently Learning
 [![Rust Badge](https://img.shields.io/badge/-Rust-FEFEFE?style=for-the-badge&labelColor=black&logo=rust&logoColor)](#)
 
 
