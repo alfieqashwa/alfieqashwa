@@ -14,7 +14,7 @@ I started learning ReactJS in mid-2018
 
 
 ### Skills
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=0D1117&logo=javascript&logoColor=F0DB4F)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=0D1117&logo=javascript&logoColor=F0DB4F)](https://developer.mozilla.org/en-US/docs/Web/javascript)
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=0D1117&logo=typescript&logoColor=007acc)](#)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=0D1117&logo=node.js&logoColor=3C873A)](#)
 
