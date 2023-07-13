@@ -35,7 +35,7 @@ I started learning ReactJS in mid-2018
 
 
 #### Currently Learning
-[![Rust Badge](https://img.shields.io/badge/-Rust-FEFEFE?style=for-the-badge&labelColor=black&logo=rust&logoColor)](#)
+[![Rust Badge](https://img.shields.io/badge/-Rust-FEFEFE?style=for-the-badge&labelColor=0D1117&logo=rust&logoColor)](#)
 
 
 ### Socials
