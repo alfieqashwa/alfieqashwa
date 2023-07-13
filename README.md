@@ -25,6 +25,9 @@ I started learning ReactJS in mid-2018
 [![Prisma Badge](https://img.shields.io/badge/-Prisma-5A67D8?style=for-the-badge&labelColor=black&logo=prisma&logoColor)](#)
 [![Postgres Badge](https://img.shields.io/badge/-Postgresql-2F6792?style=for-the-badge&labelColor=black&logo=postgresql&logoColor)](#) 
 
+[![Vim Badge](https://img.shields.io/badge/-vim-CCCCCC?style=for-the-badge&labelColor=black&logo=vim&logoColor)](#) 
+
+
 
 #### Currently Learning
 [![Rust Badge](https://img.shields.io/badge/-Rust-FEFEFE?style=for-the-badge&labelColor=black&logo=rust&logoColor)](#)
