@@ -1,14 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alfie Qashwa
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Alfie Qashwa
 ====================================================================================================================================
 
-I'm a Frontend Engineer
+A Software Engineer
 ------------------
 
 I started learning ReactJS in mid-2018
 
-* 🌍  I'm based in Ciputat
+* 🌍  I live in Indonesia, based in Ciputat
+* 🧠  I'm a founder of [Qozy Cue Billiard Application](https://qozycue.com)
 * ✉️  You can contact me at [alfieqashwa@gmail.com](mailto:alfieqashwa@gmail.com)
-* 🧠  I'm currently learning Rust Language
 * 🤝  I'm open to collaborating on NextJs and Remix
 * 📜  I'd rather be a persistent 🐢 than a sleeping 🐇
 
