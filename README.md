@@ -1,5 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Alfie Qashwa
-====================================================================================================================================
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+ALFIE+QASHWA;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 A self-taught Software Engineer
 ------------------
