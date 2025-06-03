@@ -6,8 +6,6 @@
 
 ## A self-taught Software Engineer
 
----
-
 I started learning ReactJS in mid-2018
 
 * 🌍  I live in Indonesia, based in Ciputat
