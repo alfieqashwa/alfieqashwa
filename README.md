@@ -23,7 +23,7 @@ I started learning ReactJS in mid-2018
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=0D1117&logo=typescript&logoColor=007acc)](https://www.typescriptlang.org/)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=0D1117&logo=node.js&logoColor=3C873A)](https://nodejs.org/en)
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=0D1117&logo=react&logoColor=61DBFB)](https://react.dev/)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](https://react.dev)
 [![Nextjs Badge](https://img.shields.io/badge/-Nextjs-FFFFFF?style=for-the-badge&labelColor=0D1117&logo=next.js&logoColor)](https://nextjs.org/)
 [![Tailwindcss_Badge](https://img.shields.io/badge/-Tailwind-1DACBC?style=for-the-badge&labelColor=0D1117&logo=tailwindcss&logoColor)](https://tailwindcss.com/)
 
