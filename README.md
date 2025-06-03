@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-A self-taught Software Engineer
+## A self-taught Software Engineer
 
 ---
 
