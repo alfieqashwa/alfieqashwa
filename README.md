@@ -19,26 +19,27 @@ I started learning ReactJS in mid-2018
 ---
 
 ### Skills
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=0D1117&logo=javascript&logoColor=F0DB4F)](https://developer.mozilla.org/en-US/docs/Web/javascript)
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=0D1117&logo=typescript&logoColor=007acc)](https://www.typescriptlang.org/)
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=0D1117&logo=node.js&logoColor=3C873A)](https://nodejs.org/en)
 
-[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](https://react.dev)
-[![Nextjs Badge](https://img.shields.io/badge/-Nextjs-FFFFFF?style=for-the-badge&labelColor=0D1117&logo=next.js&logoColor)](https://nextjs.org/)
-[![Tailwindcss_Badge](https://img.shields.io/badge/-Tailwind-1DACBC?style=for-the-badge&labelColor=0D1117&logo=tailwindcss&logoColor)](https://tailwindcss.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](https://developer.mozilla.org/en-US/docs/Web/javascript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)
+[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](https://nodejs.org/en)
 
-[![Prisma Badge](https://img.shields.io/badge/-Prisma-5A67D8?style=for-the-badge&labelColor=0D1117&logo=prisma&logoColor)](https://prisma.io/)
-[![Postgres Badge](https://img.shields.io/badge/-Postgresql-2F6792?style=for-the-badge&labelColor=0D1117&logo=postgresql&logoColor)](https://www.postgresql.org/) 
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](https://nextjs.org/)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-[![VsCode Badge](https://img.shields.io/badge/-vscode-0065A9?style=for-the-badge&labelColor=0D1117&logo=visualstudiocode&logoColor)](https://code.visualstudio.com/) 
-[![Vim Badge](https://img.shields.io/badge/-vim-CCCCCC?style=for-the-badge&labelColor=0D1117&logo=vim&logoColor)](https://www.vim.org/) 
+[![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)](https://prisma.io/)
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
-[![Ubuntu Badge](https://img.shields.io/badge/-ubuntu-F47421?style=for-the-badge&labelColor=0D1117&logo=ubuntu&logoColor)](https://ubuntu.com/) 
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](https://code.visualstudio.com/)
+[![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](https://neovim.io/)
+
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 
 ---
 
 #### Currently Learning
-[![Rust Badge](https://img.shields.io/badge/-Rust-FEFEFE?style=for-the-badge&labelColor=0D1117&logo=rust&logoColor)](#)
+[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 
 ---
 
